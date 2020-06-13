@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/AdminPanel/Add_Subject_Form.jsp</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Bean/Subject.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Controller/FinalUpdate.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Controller/FinalUpdateSubject.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/HelpingClasses/SessionFact.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/AdminPanel/ShowAllStudents.jsp</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Controller/AddSubjectController.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Controller/DeleteSubject.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/AdminPanel/SelectAllSubjects.jsp</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/AdminPanel/SubjectControll/UpdateSubject.jsp</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Controller/AddSubjectControll.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/AdminPanel/StudentControll/DeleteStudent.jsp</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Resources/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/CommonSrc/src.jsp</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/src/java/Bean/Student.java</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/StudentRegistration.jsp</file>
+            <file>file:/C:/Users/sanowak/Documents/NetBeansProjects/LanguageSchoolSystem/web/AdminPanel/StudentControll/UpdateStudent.jsp</file>
+        </group>
+    </open-files>
+</project-private>
